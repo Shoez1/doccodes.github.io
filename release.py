@@ -47,7 +47,6 @@ def populate(dinf, cinf):
 	return deb
 
 
-##print(md5(deb))
 end = populate(deb, ctrlinf)
 printd(end)
 ctrlinf.close()
