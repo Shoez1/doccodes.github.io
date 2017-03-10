@@ -2,7 +2,7 @@ Package: com.doc.zeppelinguitars
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Doc
-Depends: Zeppelin
+Depends: com.alexzielenski.zeppelin
 Filename: debs//com.doc.zeppelinguitars.deb
 Size: 103934
 MD5sum: 9fd8f176f855e882a8d2717fa87ceff3
