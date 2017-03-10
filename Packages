@@ -1,0 +1,15 @@
+Package: com.doc.zeppelinguitars
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Doc
+Depends: Zeppelin
+Filename: debs//com.doc.zeppelinguitars.deb
+Size: 103934
+MD5sum: 9fd8f176f855e882a8d2717fa87ceff3
+SHA1: 26298b5fbcfd8c1a0b4c2daeac0c5e1e8bd6d92a
+SHA256: fdc1e7afc3c3304bbfdd5e7e1d6bec3d550370dd60dc85eba98b97eafeb09827
+Section: Addons (Zeppelin)
+Description: Popular guitar brands for Zeppelin
+Author: Evan Young (Doc)
+Depiction:
+Name: Zeppelin - Guitars

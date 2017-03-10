@@ -1,0 +1,9 @@
+Origin: Doc's Repo
+Label: Doc's Repo
+Suite: stable
+Version: 1.0
+Codename: Doc
+Architectures: iphoneos-arm
+Components: main
+Description: Doc's Repo
+MD5Sum:
