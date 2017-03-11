@@ -38,7 +38,7 @@ def populate(dinf, cinf):
 	deb['Section'] = spaceToEnd(cinf)
 	deb['Depends'] = input("Depends\n")
 	
-	deb['Filename'] = "debs//{0}".format(dinf.split('/')[-1].strip())
+	deb['Filename'] = "./debs/{0}".format(dinf.split('/')[-1].strip())
 	deb['MD5sum'] = checksum(dinf, hashlib.md5())
 	deb['SHA1'] = checksum(dinf, hashlib.sha1())
 	deb['SHA256'] = checksum(dinf, hashlib.sha256())
