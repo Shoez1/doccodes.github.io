@@ -1,1 +1,0 @@
-bzip2 `dirname $0`/Packages

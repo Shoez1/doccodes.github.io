@@ -1,6 +1,6 @@
 ##
 # release.py (Interprets release data for tweaks)
-# Copyright (c) Evan Young
+# Copyright (c) Evan Young 2017
 ##
 import hashlib
 import os
@@ -50,3 +50,4 @@ def populate(dinf, cinf):
 end = populate(deb, ctrlinf)
 printd(end)
 ctrlinf.close()
+input()
