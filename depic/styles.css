@@ -6,7 +6,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 body {
-   margin: 80px 0 35px 0;
+   margin: 0px 0 35px 0;
 }
 .font-body, body {
    font: 400 16px/1.3em system-ui,BlinkMacSystemFont,-apple-system-font,"Helvetica Neue",sans-serif;

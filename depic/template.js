@@ -15,9 +15,6 @@ var template = ' \
 		<title>Doc\'s Repo</title> \
 	</head> \
 	<body> \
-		<header> \
-			<h1>'+title+'<h1> \
-		</header> \
 		<div id="content"> \
 			<h2 role="header">Description</h2> \
 			<ul> \
@@ -68,9 +65,6 @@ function correctCydia() {
 		var base = document.createElement("base");
 		base.target = "_open";
 		document.head.appendChild(base);
-		
-		document.querySelector("body").removeChild(document.querySelector("header"));
-		document.querySelector("body").style = "margin: 0px 0 35px 0;";
 	}
 }
 checkCydia();
