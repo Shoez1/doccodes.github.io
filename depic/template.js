@@ -8,6 +8,7 @@ var template = ' \
 <!DOCTYPE html> \
 <html> \
 	<head> \
+		<meta name="viewport" content="width=device-width, initial-scale=1"> \
 		<meta http-equiv="content-type" content="text/html" charset="utf-8"/> \
 		<link rel="stylesheet" type="text/css" href="styles.css"> \
 		<meta charset="utf-8"> \
@@ -48,4 +49,29 @@ var template = ' \
 	</body> \
 </html> \
 ';
-document.documentElement.innerHTML = template;
+var docElement = document.documentElement;
+docElement.innerHTML = template;
+
+function checkCydia() {
+	var classList = docElement.classList;
+	if (navigator.userAgent.indexOf("Cydia") != -1) {
+		if (document.title.indexOf(" \u00b7 ") != -1) {
+			document.title = document.title.split(" \u00b7 ")[0];
+		}
+		classList.add("cydia");
+	} else {
+		classList.remove("cydia", "depiction");
+	}
+}
+function correctCydia() {
+	if (document.documentElement.classList.contains("cydia")) {
+		var base = document.createElement("base");
+		base.target = "_open";
+		document.head.appendChild(base);
+		
+		document.querySelector("body").removeChild(document.querySelector("header"));
+		document.querySelector("body").style = "margin: 0px 0 35px 0;";
+	}
+}
+checkCydia();
+correctCydia();
