@@ -1,5 +1,5 @@
 ##
-# release.py (Interprets release data for tweaks)
+# packages.py (Interprets package data for tweaks)
 # Copyright (c) Evan Young 2017
 ##
 import hashlib
@@ -24,7 +24,7 @@ def checksum(filename, method):
 	return method.hexdigest()
 def printd(deb):
 	print()
-	order = ["Package", "Version", "Name", "Author", "Description", "Section", "Architecture", "Maintainer",
+	order = ["Package", "Name", "Author", "Description", "Version", "Section", "Architecture", "Maintainer",
 			"Depends", "Filename", "Size", "MD5sum", "SHA1", "SHA256", "Depiction"]
 	for k in order:
 		print("{0}: {1}".format(k, deb[k]))
@@ -38,7 +38,7 @@ def populate(dinf, cinf):
 	deb['Version'] = spaceToEnd(cinf)
 	deb['Architecture'] = spaceToEnd(cinf)
 	deb['Description'] = spaceToEnd(cinf)
-	deb['Author'] = spaceToEnd(cinf)
+	deb['Author'] = spaceToEnd(cinf) + " <evanyoung62@icloud.com>"
 	deb['Maintainer'] = deb['Author']
 	deb['Depiction'] = 'https://doccodes.github.io/depic/{0}/'.format(deb['Package'])
 	deb['Section'] = spaceToEnd(cinf)

@@ -1,5 +1,5 @@
 ##
-# pack.py (Pack Packages for a cydia repo)
+# packer.py (Packs Packages for a cydia repo)
 # Copyright (c) Evan Young 2017
 ##
 import bz2
