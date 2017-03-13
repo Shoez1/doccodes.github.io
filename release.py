@@ -12,7 +12,7 @@ ctrlinf = open(ctrl, 'r')
 add = []
 
 if(platform.system() == 'Windows'):
-        splitc = '\'
+        splitc = '\\'
 else:
         splitc = '/'
 
