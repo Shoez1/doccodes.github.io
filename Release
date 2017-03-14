@@ -1,7 +1,7 @@
-Origin: Doc
+Origin: Doc's Repo
 Label: Doc's Repo
 Suite: stable
-Version: 1.0
+Version: 1.1
 Codename: Doc
 Architectures: iphoneos-arm
 Components: main
