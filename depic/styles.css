@@ -6,7 +6,7 @@ html {
 	-webkit-text-size-adjust: 100%;
 }
 body {
-   margin: 0px 0 35px 0;
+   margin: 80px 0 35px 0;
 }
 .font-body, body {
    font: 400 16px/1.3em system-ui,BlinkMacSystemFont,-apple-system-font,"Helvetica Neue",sans-serif;
@@ -78,16 +78,16 @@ h2 {
 	font-family: system-ui,BlinkMacSystemFont,-apple-system-font,"Helvetica Neue",sans-serif;
 	font-weight: 600;
 }
+#content > ul > li > [role=button], #content > ul > li > [role=link], #content > ul > li > p {
+	padding: 11px 15px;
+	margin: -11px -15px;
+}
 #content > ul > li > [role=button], #content > ul > li > [role=link] {
 	display: block;
 	color: #007aff;
 	padding-right: 30px;
 	position: relative;
 	z-index: 2;
-}
-#content > ul > li > [role=button], #content > ul > li > [role=link], #content > ul > li > p {
-	padding: 11px 15px;
-	margin: -11px -15px;
 }
 a, button {
 	color: #007aff;
@@ -135,4 +135,7 @@ img.screenshot-image {
 	#content {
 		width: 964px;
 	}
+}
+small {
+	font-size: 80%;
 }

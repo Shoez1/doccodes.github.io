@@ -3,6 +3,7 @@ var compat = document.getElementById('compat').innerHTML;
 var desc = document.getElementById('description').innerHTML;
 var ver = document.getElementById('version').innerHTML;
 var change = document.getElementById('changelog').innerHTML;
+var update = document.getElementById('update').innerHTML;
 
 var template = ' \
 <!DOCTYPE html> \
@@ -15,6 +16,9 @@ var template = ' \
 		<title>Doc\'s Repo</title> \
 	</head> \
 	<body> \
+		<header> \
+			<h1>'+title+'</h1> \
+		</header> \
 		<div id="content"> \
 			<h2 role="header">Description</h2> \
 			<ul> \
@@ -32,7 +36,11 @@ var template = ' \
 					<p><strong>Changes in Version '+ver+'</strong></p><p></p> \
 					<ul>'+change+'</ul> \
 				</li> \
+				<li> \
+					<p>Updated: '+update+'</p> \
+				</li> \
 			</ul> \
+			<h2 role="header">Social Media</h2> \
 			<ul> \
 				<li> \
 					<a href="https://www.twitter.com/Bowser65" role="button">Follow on Twitter</a> \
@@ -72,6 +80,9 @@ function correctCydia() {
 		for(var i = 0; i < cydiaBlankLinks.length; i++) {
 			cydiaBlankLinks[i].target = "_blank";
 		}
+		
+		document.querySelector("header").remove();
+		document.querySelector("body").style.margin = "0 0 35px 0";
 	}
 }
 checkCydia();
