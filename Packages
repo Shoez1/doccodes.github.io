@@ -14,14 +14,14 @@ Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
 Name: Flachsperre
 
 Package: com.doc.wurtsperre
-Version: 1.2
+Version: 1.2.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.wurtsperre_1.2_iphoneos-arm.deb
-Size: 154990
-MD5sum: 428afcaaccb5af03f76f27a03139f16e
-SHA1: a6aa1404fb0ef0a7955f6023b5e993ad19b086ff
-SHA256: 43e6d8392e8308c58d9f3ca458d8ecb351181d093bef67b1cb98edbfffd2e52e
+Filename: ./debs/com.doc.wurtsperre_1.2.1_iphoneos-arm.deb
+Size: 154992
+MD5sum: f912a89017a5c74931ce431b3b3908b0
+SHA1: 960922ce12d67ba1f99025b05c21d1de4312e8b0
+SHA256: 39583cb07962180b05e38751fd469f77d8d5146f4ca6ec816c172c60ad0745ea
 Section: Widgets
 Description: Word style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
