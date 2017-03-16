@@ -1,48 +1,45 @@
 Package: com.doc.flachsperre
 Version: 1.0.1
 Architecture: iphoneos-arm
-Filename: ./debs/doccodes.github.io/debs/com.doc.flachsperre_1.0.1_iphoneos-arm.deb
-Size: 154228
-Depends: com.bushe.lockhtml4
-MD5sum: a5e53217127e6372269eb211ca040f48
-SHA1: 5e51b98040f545c0348f8ce5aa654d8b8fa3a7f5
-SHA256: 672b69c088306bffa75e8de96c0596539f45f051f5fb3f2bca9fbd9f8d951388
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.flachsperre_1.0.1_iphoneos-arm.deb
+Size: 154340
+MD5sum: 7ccfacab760f79b3089b912b85877347
+SHA1: 6493f0f3b1155398a5fe4a6f5e53094d475685b9
+SHA256: 9a04b562d93b82e1947b9af65c9704da556bba3633fdec8d908a0d2b4f6e6225
 Section: Widgets
 Description: Flat design for LockHTML
 Author: Doc <evanyoung62@icloud.com>
-Maintainer: Dock <evanyoung62@icloud.com>
-Name: Flachsperre
 Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
+Name: Flachsperre
 
 Package: com.doc.wurtsperre
 Version: 1.2
 Architecture: iphoneos-arm
-Filename: ./debs/doccodes.github.io/debs/com.doc.wurtsperre_1.2_iphoneos-arm.deb
-Size: 154940
-Depends: com.bushe.lockhtml4
-MD5sum: ad82b5f0a92b1b62ab4eef52302a3a21
-SHA1: f1dcf658611d70d0a5d569320d8f4441ba7b9975
-SHA256: b32332cad5d32252f77c6bf2463f4978222b8363d726d7c9612eea8ae2e1154f
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.wurtsperre_1.2_iphoneos-arm.deb
+Size: 154990
+MD5sum: 428afcaaccb5af03f76f27a03139f16e
+SHA1: a6aa1404fb0ef0a7955f6023b5e993ad19b086ff
+SHA256: 43e6d8392e8308c58d9f3ca458d8ecb351181d093bef67b1cb98edbfffd2e52e
 Section: Widgets
 Description: Word style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
-Maintainer: Dock <evanyoung62@icloud.com>
-Name: Wurtsperre
 Depiction: https://doccodes.github.io/depic/com.doc.wurtsperre/
+Name: Wurtsperre
 
 Package: com.doc.zeppelinguitars
 Version: 1.1.1
 Architecture: iphoneos-arm
-Filename: ./debs/doccodes.github.io/debs/com.doc.zeppelinguitars_1.1.1_iphoneos-arm.deb
-Size: 126518
-Depends: com.alexzielenski.zeppelin
-MD5sum: 5681e52ef32817f468c4c06160cc9389
-SHA1: 9c5ba00d1fd051464fd3b212002bb4b37468621f
-SHA256: fccb2e457ec32205244c1109b2786e2d2776bc14b5137ef830333f9cdbb0273b
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.zeppelinguitars_1.1.1_iphoneos-arm.deb
+Size: 126600
+MD5sum: 3a57e9280d174c537565f461f1562ef0
+SHA1: 7237e7c08f9cfb99705729ba8907c71583af3679
+SHA256: f5323fde6849f75b862df90d916e98c09e2b92db93f52eed382bc1b56af1f091
 Section: Addons (Zeppelin)
 Description: Popular guitar brands for Zeppelin
 Author: Doc <evanyoung62@icloud.com>
-Maintainer: Dock <evanyoung62@icloud.com>
-Name: Zeppelin - Guitar Brands
 Depiction: https://doccodes.github.io/depic/com.doc.zeppelinguitars/
+Name: Zeppelin - Guitar Brands
 
