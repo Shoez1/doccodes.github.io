@@ -1,3 +1,18 @@
+Package: com.doc.bley
+Version: 1.0a
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.bley_1.0a_iphoneos-arm.deb
+Size: 4517624
+MD5sum: 25188f7bffc089f692a7a13937f73d33
+SHA1: 23ba9f666fd64054ef15530dcf4397af42cc554f
+SHA256: f4a6094296a29221715bffd243b0de1fa39611eb83d3d7074966b9b1af3bc7e6
+Section: Themes
+Description: Blue-Grey theme for anemone
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.bley/
+Name: Bley
+
 Package: com.doc.flachsperre
 Version: 1.0.1
 Architecture: iphoneos-arm
