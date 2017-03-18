@@ -44,14 +44,14 @@ Depiction: https://doccodes.github.io/depic/com.doc.gravy/
 Name: Gravy
 
 Package: com.doc.wurtsperre
-Version: 1.2.2
+Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.wurtsperre_1.2.2_iphoneos-arm.deb
-Size: 154994
-MD5sum: 20d61aca279500977845b7072b0781e9
-SHA1: 8a3ffb1c6f8847c866a1d8d332587a8c9b099fb6
-SHA256: 3d61cbc6a05c774b0217acef75b3fb1895722292eef839d154e3a987c3a9d19a
+Filename: ./debs/com.doc.wurtsperre_1.2.3_iphoneos-arm.deb
+Size: 154988
+MD5sum: b20ab37912fdeb1e21c9e8b7ed086340
+SHA1: 64cfd1833bb07e74ba5d6c23438d6d30b944610d
+SHA256: 4ff84a1cc6852f39572dfb70cf1b845af10a52709154650f89acaa331fc78db2
 Section: Widgets
 Description: Word style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>

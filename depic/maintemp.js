@@ -3,7 +3,7 @@ var compat = document.getElementById('compat').innerHTML;
 var desc = document.getElementById('description').innerHTML;
 var ver = document.getElementById('version').innerHTML;
 var change = document.getElementById('changelog').innerHTML;
-var update = document.getElementById('update').innerHTML;
+var date = document.getElementById('update').innerHTML;
 
 var template = ' \
 <!DOCTYPE html> \
@@ -37,7 +37,7 @@ var template = ' \
 					<ul>'+change+'</ul> \
 				</li> \
 				<li> \
-					<p>Updated: '+update+'</p> \
+					<a href="changelog.html" role="button" class="cydia_blank">Full Changelog</a> \
 				</li> \
 			</ul> \
 			<h2 role="header">Social Media</h2> \

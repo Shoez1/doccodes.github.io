@@ -1,4 +1,5 @@
-var screenshots = document.getElementById('gallery').innerHTML;
+var title = document.getElementById('title').innerHTML;
+var main = document.getElementById('main').innerHTML;
 
 var template = ' \
 <!DOCTYPE html> \
@@ -12,12 +13,10 @@ var template = ' \
 	</head> \
 	<body style="margin: 80px 0px 35px 0px;"> \
 		<header> \
-			<h1>Screenshots</h1> \
+			<h1>'+title+'</h1> \
 		</header> \
 		<div id="content"> \
-			<ul style="list-style: none;"> \
-				'+screenshots+' \
-			</ul> \
+            '+main+' \
 		</div> \
 		<footer role="footer">Copyright Doc 2017</footer> \
 	</body> \
