@@ -17,7 +17,6 @@ mv control DEBIAN/
 sleep 0.5
 
 echo Removing Debian Remnants
-rm -r $1
 rm -r control.tar.gz
 rm -r data.tar.gz
 rm -r debian-binary
