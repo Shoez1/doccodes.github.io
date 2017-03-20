@@ -59,15 +59,15 @@ Depiction: https://doccodes.github.io/depic/com.doc.kreissperre/
 Name: Kreissperre
 
 Package: com.doc.machspring
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.machspring_0.1.1_iphoneos-arm.deb
-Size: 730
-MD5sum: 120f70a2093e4672576fa7c81dcf9b6d
-SHA1: 5e24b07b07284229931b3942d2fb07df16c0a19d
-SHA256: 6bbe6b051c9c65dbe18199fbf1944a8a048256c0bd327609020f2317eea7000c
-Section: Developement
+Filename: ./debs/com.doc.machspring_0.1.2_iphoneos-arm.deb
+Size: 734
+MD5sum: 35462d409be666bf59502046af6b88b9
+SHA1: 29c80c37a79fa549a855930dca5c30c380555300
+SHA256: c9ce850f911c6cf5d021072160fbe43f4bec41efeba618d9fd07bfc4bd6fb7e5
+Section: Development
 Description: An alternative way to respring with mach_portal
 Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.machspring/
