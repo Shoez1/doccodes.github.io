@@ -44,14 +44,14 @@ Depiction: https://doccodes.github.io/depic/com.doc.gravy/
 Name: Gravy
 
 Package: com.doc.kreissperre
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.kreissperre_1.0_iphoneos-arm.deb
-Size: 304724
-MD5sum: c43d4338bed1930a4cc894e682309f9c
-SHA1: ce6f9504f1eee635bf1731a84a7307f4f09e3b23
-SHA256: 0130623f29bc2ee041638a7a55a2f786884161e648e28392097a0e50249ba600
+Filename: ./debs/com.doc.kreissperre_1.0.1_iphoneos-arm.deb
+Size: 304654
+MD5sum: 7ff99ecd0031ce725645a08672d476f1
+SHA1: 56cbb1368f0be14e9906417c82208147e46cb7ee
+SHA256: fff3be396be374ed512443314068f948c27b97eea64807bf237907493e8981b7
 Section: Widgets
 Description: Round Apple Watch style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
