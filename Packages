@@ -73,6 +73,21 @@ Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.machspring/
 Name: MachSpring
 
+Package: com.doc.machstrate
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.machstrate_0.1_iphoneos-arm.deb
+Size: 1292
+MD5sum: 5ac1f7739e0975c2398163aed2bbb484
+SHA1: 0d4ebdf8805aa47c45afd1fb644a970407e0c460
+SHA256: 29c0df3cf2823cdaa27e0b4f268782b0e5775310c0bb07de7fec7646d2ed17c8
+Section: Development
+Description: The correct way to enable substrate for mach_portal.
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.machstrate/
+Name: MachStrate
+
 Package: com.doc.wurtsperre
 Version: 1.2.3
 Architecture: iphoneos-arm
