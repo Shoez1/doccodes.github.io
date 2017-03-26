@@ -33,7 +33,7 @@ var template = ' \
 			<h2 role="header">Changelog</h2> \
 			<ul> \
 				<li> \
-					<p><strong>Changes in Version '+ver+'</strong></p><p></p> \
+					<p><strong>Changes in Version '+ver+'</strong><br></p><p></p> \
 					<ul>'+change+'</ul> \
 				</li> \
 				<li> \
@@ -42,6 +42,9 @@ var template = ' \
 			</ul> \
 			<h2 role="header">Social Media</h2> \
 			<ul> \
+                <li> \
+                    <a href="https://paypal.me/DocCodes" role="button">Donate to further development</a> \
+                </li> \
 				<li> \
 					<a href="https://www.twitter.com/Bowser65" role="button">Follow on Twitter</a> \
 				</li> \
