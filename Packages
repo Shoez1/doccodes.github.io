@@ -2,11 +2,12 @@ Package: com.doc.bley
 Version: 1.0a
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
+Depends: com.anemonetheming.anemone
 Filename: ./debs/com.doc.bley_1.0a_iphoneos-arm.deb
-Size: 4517624
-MD5sum: 25188f7bffc089f692a7a13937f73d33
-SHA1: 23ba9f666fd64054ef15530dcf4397af42cc554f
-SHA256: f4a6094296a29221715bffd243b0de1fa39611eb83d3d7074966b9b1af3bc7e6
+Size: 4517634
+MD5sum: 0f8bcc196afaf263889d38ce70253502
+SHA1: 556661923b774c5d4322f98d10dc77b210b6e1be
+SHA256: 7f08829a2c42590d9323f171f09f92079d1c324fac960ad4f4ae94acb7be8f79
 Section: Themes
 Description: Blue-Grey theme for anemone
 Author: Doc <evanyoung62@icloud.com>
@@ -17,11 +18,12 @@ Package: com.doc.flachsperre
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
+Depends: com.bushe.lockhtml4
 Filename: ./debs/com.doc.flachsperre_1.0.1_iphoneos-arm.deb
-Size: 154340
-MD5sum: 7ccfacab760f79b3089b912b85877347
-SHA1: 6493f0f3b1155398a5fe4a6f5e53094d475685b9
-SHA256: 9a04b562d93b82e1947b9af65c9704da556bba3633fdec8d908a0d2b4f6e6225
+Size: 154352
+MD5sum: 15d81752371dce2462fb9a6d23d89219
+SHA1: b7223347c650c9e504fdc387f6ae10b4b7da6603
+SHA256: 0647b85616b354d8a30d37551ef1114b0b374985f74c04e0d153e1bfd1fd5a29
 Section: Widgets
 Description: Flat design for LockHTML
 Author: Doc <evanyoung62@icloud.com>
@@ -32,12 +34,12 @@ Package: com.doc.gravy
 Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.gravy_1.2.4_iphoneos-arm.deb
 Depends: com.anemonetheming.anemone
-Size: 903820
-MD5sum: bad90fdee0d7f25f4242517bb191439d
-SHA1: 53a7b599512fdce9708e1b2f9d88e677ffda8309
-SHA256: 7017a1c572797c7bac85c59579883d86710cec09430e3dc3b0fffcccf8c6bb56
+Filename: ./debs/com.doc.gravy_1.2.4_iphoneos-arm.deb
+Size: 903956
+MD5sum: 2ac77d45accb45d1205cf0d305d051bb
+SHA1: 9728917887768b37914e94610125277122514c7d
+SHA256: b9c4e58d0d1814f209a358494613faeba3008fde59e5210ce8a78272a6f802b5
 Section: Themes
 Description: More icons for ArkLotif's Biscuit
 Author: Doc <evanyoung62@icloud.com>
@@ -48,11 +50,12 @@ Package: com.doc.kreissperre
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
+Depends: com.bushe.lockhtml4
 Filename: ./debs/com.doc.kreissperre_1.0.1_iphoneos-arm.deb
-Size: 304654
-MD5sum: 7ff99ecd0031ce725645a08672d476f1
-SHA1: 56cbb1368f0be14e9906417c82208147e46cb7ee
-SHA256: fff3be396be374ed512443314068f948c27b97eea64807bf237907493e8981b7
+Size: 304682
+MD5sum: 4f146438a907a48802ed262e295eb57a
+SHA1: cfb8057dc937808686edbaeb6f43e56920a1e11a
+SHA256: 1346ea198d6eeaacfc3d92c66b4b5a7b38ce3e5179a0206fe65ea66f8787a7ec
 Section: Widgets
 Description: Round Apple Watch style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
@@ -64,10 +67,10 @@ Version: 0.1.3
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
 Filename: ./debs/com.doc.machspring_0.1.3_iphoneos-arm.deb
-Size: 732
-MD5sum: cc97a972aad41778c0f3405a17154d67
-SHA1: 492ee337bcd7246bee3e1a1538f022dc6ad51147
-SHA256: 16f4d6e2d65152d241cbdd79b17c144743c4b56ed4dbfb3d4136f312bf6d0951
+Size: 740
+MD5sum: 5fa47587af37fc35981b944b034f6158
+SHA1: d233bfc3f2985d6c73cde0d6ebbfd529f9861e4d
+SHA256: 965355a3a6dae73d252a49825508cc817aabb2c837338224ec208b22571f5b94
 Section: Development
 Description: An alternative way to respring with mach_portal
 Author: Doc <evanyoung62@icloud.com>
@@ -79,10 +82,10 @@ Version: 0.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
 Filename: ./debs/com.doc.machstrate_0.1_iphoneos-arm.deb
-Size: 1292
-MD5sum: 5ac1f7739e0975c2398163aed2bbb484
-SHA1: 0d4ebdf8805aa47c45afd1fb644a970407e0c460
-SHA256: 29c0df3cf2823cdaa27e0b4f268782b0e5775310c0bb07de7fec7646d2ed17c8
+Size: 1274
+MD5sum: ac05c066a14df4e21503f796dfe38d1e
+SHA1: 211930e1eb620fb451d3da69e53c253a43eab146
+SHA256: 7a22280facc56a2ef88e21337b0faf8dd89a53598b065262966af73cb86dfaf1
 Section: Development
 Description: The correct way to enable substrate for mach_portal.
 Author: Doc <evanyoung62@icloud.com>
@@ -93,11 +96,12 @@ Package: com.doc.wurtsperre
 Version: 1.2.3
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
+Depends: com.bushe.lockhtml4
 Filename: ./debs/com.doc.wurtsperre_1.2.3_iphoneos-arm.deb
-Size: 154988
-MD5sum: b20ab37912fdeb1e21c9e8b7ed086340
-SHA1: 64cfd1833bb07e74ba5d6c23438d6d30b944610d
-SHA256: 4ff84a1cc6852f39572dfb70cf1b845af10a52709154650f89acaa331fc78db2
+Size: 155010
+MD5sum: bd2c2087b1d765a1d5bd74bb4f018d99
+SHA1: 9720bc782b67365859c70001390e0fcb249bcd70
+SHA256: c2bdfb36288f758bb93d8be91901fc9d293ab015a4b429835138740f54d74b23
 Section: Widgets
 Description: Word style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
@@ -108,11 +112,12 @@ Package: com.doc.zeppelinguitars
 Version: 1.1.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
+Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.doc.zeppelinguitars_1.1.1_iphoneos-arm.deb
-Size: 126600
-MD5sum: 3a57e9280d174c537565f461f1562ef0
-SHA1: 7237e7c08f9cfb99705729ba8907c71583af3679
-SHA256: f5323fde6849f75b862df90d916e98c09e2b92db93f52eed382bc1b56af1f091
+Size: 126620
+MD5sum: 5629980df0d009c967442667c3ebe77e
+SHA1: 973c25d9f614fd87c37206a648a67dfd0fcb6802
+SHA256: 104e95f32fd4dbf4f156c7bf635e3f2d4451bd75f4f39cd33a5c221ebf77e755
 Section: Addons (Zeppelin)
 Description: Popular guitar brands for Zeppelin
 Author: Doc <evanyoung62@icloud.com>
