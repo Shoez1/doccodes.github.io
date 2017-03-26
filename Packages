@@ -33,6 +33,7 @@ Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
 Filename: ./debs/com.doc.gravy_1.2.4_iphoneos-arm.deb
+Depends: com.anemonetheming.anemone
 Size: 903820
 MD5sum: bad90fdee0d7f25f4242517bb191439d
 SHA1: 53a7b599512fdce9708e1b2f9d88e677ffda8309
