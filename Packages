@@ -92,6 +92,21 @@ Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.machstrate/
 Name: MachStrate
 
+Package: com.doc.redrop
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.redrop_0.1_iphoneos-arm.deb
+Size: 728
+MD5sum: 59c1ed709224249c5360c12c500ac3b1
+SHA1: 7895d5d59e56c062f4f43506aee179b3f92a6bcf
+SHA256: 80d64d93ebaa62b1679f66367c07f301546b2bfa598433e69d531bf7bcc6cb45
+Section: Development
+Description: An easier way to restart dropbear
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.redrop/
+Name: ReDrop
+
 Package: com.doc.wurtsperre
 Version: 1.2.3
 Architecture: iphoneos-arm
