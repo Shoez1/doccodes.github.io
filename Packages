@@ -93,14 +93,14 @@ Depiction: https://doccodes.github.io/depic/com.doc.machstrate/
 Name: MachStrate
 
 Package: com.doc.redrop
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.redrop_0.1.1_iphoneos-arm.deb
-Size: 726
-MD5sum: 5492ff9c1e648258b556dd218c5ef171
-SHA1: 98d7d2df816df87e08cdadaa05e5267e43c4af9f
-SHA256: f95c21249a8edee2257319ac9a415e17584505255beabca033d55c5d8b130a74
+Filename: ./debs/com.doc.redrop_0.1.2_iphoneos-arm.deb
+Size: 746
+MD5sum: 01f2ebeeb6dbfac08ca6689419615dc2
+SHA1: f332b1963f5b459f66da3a3a3ea2a4fee34deb2f
+SHA256: a522effbbb44c7e4ca6d42c5e4255b24d8a6ed124a48e5b0f2e04db1b7bb7fb4
 Section: Development
 Description: An easier way to restart dropbear
 Author: Doc <evanyoung62@icloud.com>
