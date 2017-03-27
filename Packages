@@ -108,22 +108,6 @@ Depiction: https://doccodes.github.io/depic/com.doc.redrop/
 Name: ReDrop
 
 Package: com.doc.wurtsperre
-Version: 1.2.3
-Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.wurtsperre_1.2.3_iphoneos-arm.deb
-Size: 155010
-MD5sum: bd2c2087b1d765a1d5bd74bb4f018d99
-SHA1: 9720bc782b67365859c70001390e0fcb249bcd70
-SHA256: c2bdfb36288f758bb93d8be91901fc9d293ab015a4b429835138740f54d74b23
-Section: Widgets
-Description: Word style clock for LockHTML
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.wurtsperre/
-Name: Wurtsperre
-
-Package: com.doc.wurtsperre
 Version: 1.2.4
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
