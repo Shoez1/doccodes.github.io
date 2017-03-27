@@ -1,7 +1,7 @@
 #!/bin/sh
 
 printf "Commit Name: "
-read -a reason
+read reason
 
 cd `dirname $0`
 git add .
