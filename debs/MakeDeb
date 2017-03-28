@@ -1,7 +1,9 @@
-#!/bin/sh
-clear
-
+#!/bin/bash
+bold="\e[1m"
+reg="\e[0m"
 Rename () {
+    deb=$1
+    deb=${deb:2:${#deb}-2}
     cat $1/DEBIAN/control | {
         while read CMD; do
             len=${#CMD}
@@ -19,11 +21,11 @@ Rename () {
 export -f Rename
 
 cd `dirname $0`
-echo Removing .DS_Store
-find . ! -name '.*' -type d -maxdepth 1 -exec cd {} \; -exec find . -name '*.DS_Store' -type f -delete \;
+printf "${bold}Removing .DS_Store${reg}\n"
+find . -name '*.DS_Store' -delete
 
-echo Renaiming Folders Appropriately
-find . ! -name '.*' -type d -maxdepth 1 -exec bash -c 'Rename "{}"' \;
+printf "${bold}Renaiming Folders Appropriately${reg}\n"
+find . -maxdepth 1 -type d ! -name '.'
 
-echo Packaging Debian Archives
-find . ! -name '.*' -type d -maxdepth 1 -exec dpkg-deb -bZgzip {} \; -exec rm -r {} \;
+printf "${bold}Packaging Debian Archives${reg}\n"
+find . -maxdepth 1 -type d ! -name '.' -exec dpkg-deb -bZgzip {} \; -exec rm -r {} \;

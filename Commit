@@ -1,9 +1,10 @@
-#!/bin/sh
+#!/bin/bash
 
+cd `dirname $0`
+printf "\e[1mCommitting Changes\e[0m\n"
 printf "Commit Name: "
 read reason
 
-cd `dirname $0`
 git add .
 git commit -m "$reason"
 git push origin master
