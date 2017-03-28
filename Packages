@@ -14,6 +14,22 @@ Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.bley/
 Name: Bley
 
+Package: com.doc.farbesperre
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Depends: com.bushe.lockhtml4
+Filename: ./debs/com.doc.farbesperre_1.0_iphoneos-arm.deb
+Size: 304926
+MD5sum: bddbaa27f1a6d31311d184ee5596e1d3
+SHA1: 299794d744f2918fcb3bd7d965a106ffaae5f76d
+SHA256: 826610f11f97d46d8703264ee7398453eb6080b9d4eaca2defbaa707fd4a0e06
+Section: Widgets
+Description: Color Apple Watch style clock for LockHTML
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.farbesperre/
+Name: Farbesperre
+
 Package: com.doc.flachsperre
 Version: 1.0.2
 Architecture: iphoneos-arm

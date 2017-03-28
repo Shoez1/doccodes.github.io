@@ -25,7 +25,7 @@ printf "${bold}Removing .DS_Store${reg}\n"
 find . -name '*.DS_Store' -delete
 
 printf "${bold}Renaiming Folders Appropriately${reg}\n"
-find . -maxdepth 1 -type d ! -name '.'
+find . -maxdepth 1 -type d ! -name '.' -exec bash -c 'Rename "$0"' {} \;
 
 printf "${bold}Packaging Debian Archives${reg}\n"
 find . -maxdepth 1 -type d ! -name '.' -exec dpkg-deb -bZgzip {} \; -exec rm -r {} \;
