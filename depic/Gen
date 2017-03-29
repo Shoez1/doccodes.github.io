@@ -32,5 +32,7 @@ echo "<script type=\"text/javascript\" src=\"../subtemp.js\"></script>" >> chang
 printf "\e[1mGenerating screenshots.html\e[0m\n"
 echo "<div id=\"title\">Screenshots</div>" > screenshots.html
 echo "<div id=\"main\">" >> screenshots.html
+echo "<ul style=\"list-style: none\">" >> screenshots.html
+echo "</ul>" >> screenshots.html
 echo "</div>" >> screenshots.html
 echo "<script type=\"text/javascript\" src=\"../subtemp.js\"></script>" >> screenshots.html
