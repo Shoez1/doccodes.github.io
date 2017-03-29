@@ -14,6 +14,22 @@ Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.bley/
 Name: Bley
 
+Package: com.doc.dassperre
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Depends: com.bushe.lockhtml4
+Filename: ./debs/com.doc.dassperre_1.0_iphoneos-arm.deb
+Size: 30632
+MD5sum: a9b38e5c28473cda228794e69e96ee07
+SHA1: f5a01e78c4e002bfb51735e3548b5a02bad8f563
+SHA256: e13ec998cab1151ad9860748f39de5d32a4b9efa1d97bfe6d39f18d9ec5c69bf
+Section: Widgets
+Description: A remake of my favorite GroovyLock theme.
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.dassperre/
+Name: Daßperre
+
 Package: com.doc.farbesperre
 Version: 1.0
 Architecture: iphoneos-arm

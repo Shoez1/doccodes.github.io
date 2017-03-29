@@ -29,7 +29,7 @@ echo "</ul" >> changelog.html
 echo "</div>" >> changelog.html
 echo "<script type=\"text/javascript\" src=\"../subtemp.js\"></script>" >> changelog.html
 
-printf "\e[1mGenerating screenshots.html\e[0m"
+printf "\e[1mGenerating screenshots.html\e[0m\n"
 echo "<div id=\"title\">Screenshots</div>" > screenshots.html
 echo "<div id=\"main\">" >> screenshots.html
 echo "</div>" >> screenshots.html
