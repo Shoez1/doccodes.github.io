@@ -2,6 +2,8 @@
 
 cd `dirname $0`
 printf "\e[1mCommitting Changes\e[0m\n"
+printf "\e[1mStarting SSH Agent\e[0m\n"
+eval `ssh-agent -s` &> /dev/null
 printf "Commit Name: "
 read reason
 
