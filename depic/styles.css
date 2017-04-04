@@ -109,6 +109,9 @@ a {
 	margin-top: -7px;
 	background-size: 100% 100%;
 }
+#content > ul:last-child {
+	margin: 5px 0px 0px 0px;
+}
 footer[role="footer"] {
 	text-align: center;
 }

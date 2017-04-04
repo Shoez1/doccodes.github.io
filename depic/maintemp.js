@@ -5,16 +5,17 @@ var ver = document.getElementById('version').innerHTML;
 var change = document.getElementById('changelog').innerHTML;
 var date = document.getElementById('update').innerHTML;
 var pkgs = 11;
-function getTime() {
+
+function getFooter() {
 	var ctt = new Date();
 	var dct = new Date(ctt.getTime()+(ctt.getTimezoneOffset()*60*1000)-(5*60*60*1000));
-	hr=dct.getHours()%12;
+	hr = dct.getHours()%12;
 	hr==0?hr=12:hr=hr;
-	timeSt = `${hr}:${dct.getMinutes()}:${dct.getSeconds()<10?'0'+dct.getSeconds():dct.getSeconds()} ${dct.getHours()>=12?'PM':'AM'}`;
+	timeSt = `${hr}:${dct.getMinutes()<10?'0'+dct.getMinutes():dct.getMinutes()}:${dct.getSeconds()<10?'0'+dct.getSeconds():dct.getSeconds()} ${dct.getHours()>=12?'PM':'AM'}`;	
 	window.footSt = `Hosting ${pkgs} Packages<br>Currently: ${timeSt}<br>Copyright Doc ${ctt.getUTCFullYear()}`;
 }
-getTime();
-setInterval(getTime, 1000);
+getFooter();
+setInterval(getFooter, 1000);
 
 var template = ' \
 <!DOCTYPE html> \
