@@ -4,7 +4,7 @@ var desc = document.getElementById('description').innerHTML;
 var ver = document.getElementById('version').innerHTML;
 var change = document.getElementById('changelog').innerHTML;
 var date = document.getElementById('update').innerHTML;
-var pkgs = 11;
+var pkgs = 12;
 
 function getFooter() {
 	var ctt = new Date();

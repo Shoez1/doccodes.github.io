@@ -1,6 +1,6 @@
 var title = document.getElementById('title').innerHTML;
 var main = document.getElementById('main').innerHTML;
-var pkgs = 11;
+var pkgs = 12;
 
 function getFooter() {
 	var ctt = new Date();
