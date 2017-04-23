@@ -1,12 +1,13 @@
 Package: com.doc.assh
-Version: 0.1.1
+Version: 0.1.2
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.assh_0.1.1_iphoneos-arm.deb
-Size: 1194
-MD5sum: f02593527b245ade7643cda55798beeb
-SHA1: 745c87d79d975048129d59f452f9a2002db93d49
-SHA256: eeceb2c0bae1601ebfb47d1f425c6c392666c21b8ca6d5baabc85c2e971083db
+Depends: nano
+Filename: ./debs/com.doc.assh_0.1.2_iphoneos-arm.deb
+Size: 1204
+MD5sum: 1354da1f7d20cbc0dcb6d87181495800
+SHA1: 02002fa9e1df744c776ed5fff0327aebfa9aceff
+SHA256: d756ed7ce3bf869342e65c33b8d27c54454a926d3a339597735d3a3387ba4980
 Section: Development
 Description: An easier way to ssh into things, instead of having to retype the info this will do it for you.
 Author: Doc <evanyoung62@icloud.com>
