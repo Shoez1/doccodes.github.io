@@ -93,6 +93,21 @@ Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.gravy/
 Name: Gravy
 
+Package: com.doc.ip
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.ip_0.1_iphoneos-arm.deb
+Size: 740
+MD5sum: 74bd33636faa29505c5b7d78cdb66368
+SHA1: 58b3a4f9c3350adc0b2ef390f436c1d7bd03ef39
+SHA256: e0b8d4ee26e8642dd1b95b6fd5bbe388086dafbacb6ef8a8a532223f2eeed78b
+Section: Development
+Description: Easily get your ip address.
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.ip/
+Name: ip
+
 Package: com.doc.kreissperre
 Version: 1.1
 Architecture: iphoneos-arm
@@ -140,14 +155,14 @@ Depiction: https://doccodes.github.io/depic/com.doc.machstrate/
 Name: MachStrate
 
 Package: com.doc.redrop
-Version: 0.1.4
+Version: 0.1.5
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.redrop_0.1.4_iphoneos-arm.deb
-Size: 800
-MD5sum: 041ce25d6173f69182799a15f34656ef
-SHA1: 3d07e2b06e25d1ae24b6226c1a3529994539c52e
-SHA256: 3e5f88e1d7fdd536d1716de269aeee47c85bf26ca089c97b545e6f695aadae01
+Filename: ./debs/com.doc.redrop_0.1.5_iphoneos-arm.deb
+Size: 806
+MD5sum: 456b1b7174049c3384d3134d38758a0d
+SHA1: 6b381017c44796a0e38e0cbb52822195649b9376
+SHA256: 26abb846704457a5d6cbdf8191ca95b9133c349b44a8be535fcd00fef1e204a4
 Section: Development
 Description: An easier way to restart dropbear
 Author: Doc <evanyoung62@icloud.com>
