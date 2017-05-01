@@ -1,13 +1,13 @@
 Package: com.doc.achtsperre
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
 Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.achtsperre_1.0_iphoneos-arm.deb
-Size: 6626
-MD5sum: fe522aab34b0051376ab8b2de2fd977c
-SHA1: 2e13c013b76bb8736df5c97f706b65d63a0177b0
-SHA256: 79235624c7692ae04a3893feef7445e2dd7a1b07d50479d6645605cc503da8bd
+Filename: ./debs/com.doc.achtsperre_1.0.1_iphoneos-arm.deb
+Size: 6636
+MD5sum: 366fb34d74cf1057300691a81d6c672f
+SHA1: db55e7be7cea1c87a9d97243b2548a5f07b9f3c0
+SHA256: d4b87ab1969be886c9253a5ee63cb7037a0f4ba7e347d759351a62c07da301e5
 Section: Widgets
 Description: Galaxy S8 style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
