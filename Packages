@@ -185,6 +185,21 @@ Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.redrop/
 Name: ReDrop
 
+Package: com.doc.wemo
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Filename: ./debs/com.doc.wemo_0.1_iphoneos-arm.deb
+Size: 1482
+MD5sum: 5ba87abecae2350c8be94f680bacc599
+SHA1: 82ff47975be6c586c1c0a4f1bfda4fe4a600916c
+SHA256: 660ff5e63877f8c31f23dfb46d00210a64ffea92a3841bc9a3c32a4628f1d0df
+Section: Development
+Description: I hate the wemo app, so I made a command line tool for it.
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.wemo/
+Name: Wemo
+
 Package: com.doc.wurtsperre
 Version: 1.2.4
 Architecture: iphoneos-arm
