@@ -94,15 +94,15 @@ Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
 Name: Flachsperre
 
 Package: com.doc.gravy
-Version: 1.3.1
+Version: 1.4
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.doc.gravy_1.3.1_iphoneos-arm.deb
-Size: 1059362
-MD5sum: a44f6acdd85372c7940f30dd06efd9d9
-SHA1: 1c670f1476005485c82e6f843640468ea07cab7f
-SHA256: 0234997de5b02fe3713d009b4bad2e10ea4cfb4aa5734857d98d273d68edbf7d
+Filename: ./debs/com.doc.gravy_1.4_iphoneos-arm.deb
+Size: 1224744
+MD5sum: 62d706a218a71664a69069c3c557f61b
+SHA1: 28794f89db42062ac272b3ba4c60bb8092d42fc5
+SHA256: 760b8a90665942683183c75e7775664221e62dd5adf494f6c9c0900e21d1f145
 Section: Themes
 Description: More icons for ArkLotif's Biscuit
 Author: Doc <evanyoung62@icloud.com>
