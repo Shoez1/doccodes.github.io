@@ -94,15 +94,15 @@ Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
 Name: Flachsperre
 
 Package: com.doc.gravy
-Version: 1.5
+Version: 1.5.1
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.doc.gravy_1.5_iphoneos-arm.deb
-Size: 1491504
-MD5sum: ad135416bc8d2bf3be977417c9484d9e
-SHA1: 8560be2aabdff6518176bec306cfdae95f024598
-SHA256: 84012bbcb6e07b4d525e4d01d1638bd496d17c2470f08e74dc862085faa34e12
+Filename: ./debs/com.doc.gravy_1.5.1_iphoneos-arm.deb
+Size: 1446338
+MD5sum: 5ac5088b318ec654262b0e6ac98f1f08
+SHA1: 1e4bef0f345f6186990c32ea9e41d2062bf6c8c0
+SHA256: 8481ddd447d64cf7d886f86fb4ea2c0d4b9e1dd4ca5c49db6148d0816a2d0e49
 Section: Themes
 Description: More icons for ArkLotif's Biscuit
 Author: Doc <evanyoung62@icloud.com>
@@ -169,6 +169,22 @@ Description: The correct way to enable substrate for mach_portal.
 Author: Doc <evanyoung62@icloud.com>
 Depiction: https://doccodes.github.io/depic/com.doc.machstrate/
 Name: MachStrate
+
+Package: com.doc.radar
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Doc <evanyoung62@icloud.com>
+Depends: libactivator
+Filename: ./debs/com.doc.radar_0.1_iphoneos-arm.deb
+Size: 1522
+MD5sum: 083c250e28a318f5a83ebbbf60a24271
+SHA1: 24bb00bdc8251b53115b7e8afa6bcbe3e70036a8
+SHA256: ab55fb92cec8e1e49859a5950c43abca8a3c2cc107e94419ac4d1a42e5e855a2
+Section: Development
+Description: Control your iOS device over ssh.
+Author: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.radar/
+Name: radar
 
 Package: com.doc.redrop
 Version: 0.1.5
