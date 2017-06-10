@@ -2,10 +2,9 @@
 
 cd `dirname $0`
 printf "\e[1mCommitting Changes\e[0m\n"
-eval "$(ssh-agent -s)" &> /dev/null
 printf "Commit Name: "
 read reason
 
 git add .
 git commit -m "$reason"
-git push https://DocCodes@github.com/DocCodes/doccodes.github.io/ master
+git push origin master
