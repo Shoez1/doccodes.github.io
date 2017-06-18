@@ -94,15 +94,15 @@ Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
 Name: Flachsperre
 
 Package: com.doc.gravy
-Version: 1.5.1
+Version: 1.5.2
 Architecture: iphoneos-arm
 Maintainer: Doc <evanyoung62@icloud.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.doc.gravy_1.5.1_iphoneos-arm.deb
-Size: 1446338
-MD5sum: 5ac5088b318ec654262b0e6ac98f1f08
-SHA1: 1e4bef0f345f6186990c32ea9e41d2062bf6c8c0
-SHA256: 8481ddd447d64cf7d886f86fb4ea2c0d4b9e1dd4ca5c49db6148d0816a2d0e49
+Filename: ./debs/com.doc.gravy_1.5.2_iphoneos-arm.deb
+Size: 1494904
+MD5sum: 435b71d4f13b24d8f3f2c6fe37c638dd
+SHA1: e77cd3c068118ae2c3ad069c1f63de6b53ca90fe
+SHA256: d0d7a1f549ce5f19d9fd0b4d2459f1619565068a8c4855ed8e299a4ae0152160
 Section: Themes
 Description: More icons for ArkLotif's Biscuit
 Author: Doc <evanyoung62@icloud.com>
@@ -180,22 +180,6 @@ Size: 1534
 MD5sum: 409c4ecef4fc5b904322eb08a6129db3
 SHA1: 3773f8bdc6e9d4f8483f1f25669f51e7aaa16d4b
 SHA256: f9dcf5a8b1d4e0f6f6fcf5721ae764ce73cff415e753ed92fa7b353a99a1c08e
-Section: Development
-Description: Control your iOS device over ssh.
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.radar/
-Name: radar
-
-Package: com.doc.radar
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Depends: libactivator
-Filename: ./debs/com.doc.radar_0.1_iphoneos-arm.deb
-Size: 1522
-MD5sum: 083c250e28a318f5a83ebbbf60a24271
-SHA1: 24bb00bdc8251b53115b7e8afa6bcbe3e70036a8
-SHA256: ab55fb92cec8e1e49859a5950c43abca8a3c2cc107e94419ac4d1a42e5e855a2
 Section: Development
 Description: Control your iOS device over ssh.
 Author: Doc <evanyoung62@icloud.com>

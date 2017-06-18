@@ -2,6 +2,5 @@
 
 cd `dirname $0`
 bash debs/Deb
-bash deb/Clean
+bash debs/Clean
 bash Pack
-bash Commit
