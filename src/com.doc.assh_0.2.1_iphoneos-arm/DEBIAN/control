@@ -1,0 +1,9 @@
+Package: com.doc.assh
+Name: Assh
+Version: 0.2.1
+Architecture: iphoneos-arm
+Description: An easier way to ssh into things, instead of having to retype the info this will do it for you.
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.assh/
+Section: Development

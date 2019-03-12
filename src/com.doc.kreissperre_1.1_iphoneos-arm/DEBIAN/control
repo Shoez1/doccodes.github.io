@@ -1,0 +1,10 @@
+Package: com.doc.kreissperre
+Name: Kreissperre
+Version: 1.1
+Architecture: iphoneos-arm
+Depends: com.bushe.lockhtml4
+Description: Round Apple Watch style clock for LockHTML
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.kreissperre/
+Section: Widgets

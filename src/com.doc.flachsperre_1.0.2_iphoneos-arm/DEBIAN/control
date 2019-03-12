@@ -1,0 +1,10 @@
+Package: com.doc.flachsperre
+Name: Flachsperre
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: com.bushe.lockhtml4
+Description: Flat design for LockHTML
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
+Section: Widgets

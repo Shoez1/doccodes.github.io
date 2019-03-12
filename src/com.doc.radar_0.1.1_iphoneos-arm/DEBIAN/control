@@ -1,0 +1,10 @@
+Package: com.doc.radar
+Name: radar
+Version: 0.1.1
+Architecture: iphoneos-arm
+Depends: libactivator
+Description: Control your iOS device over ssh.
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.radar/
+Section: Development

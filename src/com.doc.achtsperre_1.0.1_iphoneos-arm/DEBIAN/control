@@ -1,0 +1,10 @@
+Package: com.doc.achtsperre
+Name: Achtsperre
+Version: 1.0.1
+Architecture: iphoneos-arm
+Depends: com.bushe.lockhtml4
+Description: Galaxy S8 style clock for LockHTML
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.achtsperre/
+Section: Widgets

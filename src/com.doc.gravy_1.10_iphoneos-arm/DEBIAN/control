@@ -1,0 +1,10 @@
+Package: com.doc.gravy
+Name: Gravy
+Version: 1.10
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Description: More icons for ArkLotif's Biscuit
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.gravy/
+Section: Themes

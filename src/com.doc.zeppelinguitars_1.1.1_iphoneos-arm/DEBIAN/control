@@ -1,0 +1,10 @@
+Package: com.doc.zeppelinguitars
+Name: Zeppelin - Guitar Brands
+Version: 1.1.1
+Architecture: iphoneos-arm
+Depends: com.alexzielenski.zeppelin
+Description: Popular guitar brands for Zeppelin
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.zeppelinguitars/
+Section: Addons (Zeppelin)

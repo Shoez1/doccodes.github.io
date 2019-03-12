@@ -1,0 +1,9 @@
+Package: com.doc.redrop
+Name: ReDrop
+Version: 0.1.5
+Architecture: iphoneos-arm
+Description: An easier way to restart dropbear
+Author: Doc <evanyoung62@icloud.com>
+Maintainer: Doc <evanyoung62@icloud.com>
+Depiction: https://doccodes.github.io/depic/com.doc.redrop/
+Section: Development
