@@ -1,9 +1,0 @@
-Package: com.doc.ip
-Name: ip
-Version: 0.1
-Architecture: iphoneos-arm
-Description: Easily get your ip address.
-Author: Doc <evanyoung62@icloud.com>
-Maintainer: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.ip/
-Section: Development

@@ -1,250 +1,249 @@
-Package: com.doc.achtsperre
+Package: com.evaneliasyoung.achtsperre
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.achtsperre_1.0.1_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.achtsperre_1.0.1_iphoneos-arm.deb
 Size: 6636
 MD5sum: 366fb34d74cf1057300691a81d6c672f
 SHA1: db55e7be7cea1c87a9d97243b2548a5f07b9f3c0
 SHA256: d4b87ab1969be886c9253a5ee63cb7037a0f4ba7e347d759351a62c07da301e5
 Section: Widgets
 Description: Galaxy S8 style clock for LockHTML
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.achtsperre/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.achtsperre/
 Name: Achtsperre
 
-Package: com.doc.assh
+Package: com.evaneliasyoung.assh
 Version: 0.2.1
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.assh_0.2.1_iphoneos-arm.deb
+Maintainer: Evan <evanyoung762@gmail.com>
+Filename: ./debs/com.evaneliasyoung.assh_0.2.1_iphoneos-arm.deb
 Size: 1132
 MD5sum: a90e17d033e6d9066fa77470252ee322
 SHA1: d6891ec2e0b9271e71a3adbbcb87e7594aa6fe12
 SHA256: dbe23759668df501b685ab796f70fba0bbc6bdeda8b6ca1914f9ca12739cc165
 Section: Development
 Description: An easier way to ssh into things, instead of having to retype the info this will do it for you.
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.assh/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.assh/
 Name: Assh
 
-Package: com.doc.bley
+Package: com.evaneliasyoung.bley
 Version: 1.0a
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.doc.bley_1.0a_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.bley_1.0a_iphoneos-arm.deb
 Size: 4517634
 MD5sum: 0f8bcc196afaf263889d38ce70253502
 SHA1: 556661923b774c5d4322f98d10dc77b210b6e1be
 SHA256: 7f08829a2c42590d9323f171f09f92079d1c324fac960ad4f4ae94acb7be8f79
 Section: Themes
 Description: Blue-Grey theme for anemone
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.bley/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.bley/
 Name: Bley
 
-Package: com.doc.dassperre
+Package: com.evaneliasyoung.dassperre
 Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.dassperre_1.0.2_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.dassperre_1.0.2_iphoneos-arm.deb
 Size: 30652
 MD5sum: 75772a3d10df9fa38a5b33b3f321fbbb
 SHA1: e359be55778a5bc2159290929721e2de88f3884e
 SHA256: 55e9adf2d5502b5b05a23c69d563669c79882581e15a9aaccecf12544c1e047d
 Section: Widgets
 Description: A remake of my favorite GroovyLock theme.
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.dassperre/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.dassperre/
 Name: Daßperre
 
-Package: com.doc.farbesperre
+Package: com.evaneliasyoung.farbesperre
 Version: 1.0
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.farbesperre_1.0_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.farbesperre_1.0_iphoneos-arm.deb
 Size: 304926
 MD5sum: bddbaa27f1a6d31311d184ee5596e1d3
 SHA1: 299794d744f2918fcb3bd7d965a106ffaae5f76d
 SHA256: 826610f11f97d46d8703264ee7398453eb6080b9d4eaca2defbaa707fd4a0e06
 Section: Widgets
 Description: Color Apple Watch style clock for LockHTML
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.farbesperre/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.farbesperre/
 Name: Farbesperre
 
-Package: com.doc.flachsperre
+Package: com.evaneliasyoung.flachsperre
 Version: 1.0.2
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.flachsperre_1.0.2_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.flachsperre_1.0.2_iphoneos-arm.deb
 Size: 154448
 MD5sum: 5825ed0bc8d5ed0c3b8a4c2ab3053030
 SHA1: 7fb8e05449d6a89177efa832a06ce513e6846a64
 SHA256: f9fdfa2f854d773b1645acd365054e6da3ce4ad4193bd0276018760bf10a3d3b
 Section: Widgets
 Description: Flat design for LockHTML
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.flachsperre/
 Name: Flachsperre
 
-Package: com.doc.gravy
+Package: com.evaneliasyoung.gravy
 Version: 1.10
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.doc.gravy_1.10_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.gravy_1.10_iphoneos-arm.deb
 Size: 2277144
 MD5sum: 24638f707a4dd4ff84a843e646107c36
 SHA1: 5158c18ecf57b53e099b99d373ccaf01f076aee0
 SHA256: e3c640650f4be84314226d88c1e0c4e7355ebb07d8f03bf8079d6c7a08081c01
 Section: Themes
 Description: More icons for ArkLotif's Biscuit
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.gravy/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.gravy/
 Name: Gravy
 
-Package: com.doc.ip
+Package: com.evaneliasyoung.ip
 Version: 0.1
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.ip_0.1_iphoneos-arm.deb
+Maintainer: Evan <evanyoung762@gmail.com>
+Filename: ./debs/com.evaneliasyoung.ip_0.1_iphoneos-arm.deb
 Size: 740
 MD5sum: 74bd33636faa29505c5b7d78cdb66368
 SHA1: 58b3a4f9c3350adc0b2ef390f436c1d7bd03ef39
 SHA256: e0b8d4ee26e8642dd1b95b6fd5bbe388086dafbacb6ef8a8a532223f2eeed78b
 Section: Development
 Description: Easily get your ip address.
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.ip/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.ip/
 Name: ip
 
-Package: com.doc.kreissperre
+Package: com.evaneliasyoung.kreissperre
 Version: 1.1
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.kreissperre_1.1_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.kreissperre_1.1_iphoneos-arm.deb
 Size: 304982
 MD5sum: ce1aba7146934566a6ac98012f465403
 SHA1: babb4b9618a4953ce746bbc5e19347f15f79dae4
 SHA256: 25cc1d9cd0f629b7db0056630b3470a8ec00f172e5b01a3a1fd707604d714fa7
 Section: Widgets
 Description: Round Apple Watch style clock for LockHTML
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.kreissperre/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.kreissperre/
 Name: Kreissperre
 
-Package: com.doc.machspring
+Package: com.evaneliasyoung.machspring
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.machspring_0.1.3_iphoneos-arm.deb
+Maintainer: Evan <evanyoung762@gmail.com>
+Filename: ./debs/com.evaneliasyoung.machspring_0.1.3_iphoneos-arm.deb
 Size: 740
 MD5sum: 5fa47587af37fc35981b944b034f6158
 SHA1: d233bfc3f2985d6c73cde0d6ebbfd529f9861e4d
 SHA256: 965355a3a6dae73d252a49825508cc817aabb2c837338224ec208b22571f5b94
 Section: Development
 Description: An alternative way to respring with mach_portal
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.machspring/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.machspring/
 Name: MachSpring
 
-Package: com.doc.machstrate
+Package: com.evaneliasyoung.machstrate
 Version: 0.1.3
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.machstrate_0.1.3_iphoneos-arm.deb
+Maintainer: Evan <evanyoung762@gmail.com>
+Filename: ./debs/com.evaneliasyoung.machstrate_0.1.3_iphoneos-arm.deb
 Size: 1386
 MD5sum: c5be1990d5d2442533d0180232c1cb86
 SHA1: e2f6c71a54aa736c88909f7aa2d2fa9054742a7e
 SHA256: 52bb76369c208fc97be8b3ed38aa625fb6b7e09df72d5acd4edb245fe8f73f07
 Section: Development
 Description: The correct way to enable substrate for mach_portal.
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.machstrate/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.machstrate/
 Name: MachStrate
 
-Package: com.doc.radar
+Package: com.evaneliasyoung.radar
 Version: 0.1.1
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: libactivator
-Filename: ./debs/com.doc.radar_0.1.1_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.radar_0.1.1_iphoneos-arm.deb
 Size: 1534
 MD5sum: 409c4ecef4fc5b904322eb08a6129db3
 SHA1: 3773f8bdc6e9d4f8483f1f25669f51e7aaa16d4b
 SHA256: f9dcf5a8b1d4e0f6f6fcf5721ae764ce73cff415e753ed92fa7b353a99a1c08e
 Section: Development
 Description: Control your iOS device over ssh.
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.radar/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.radar/
 Name: radar
 
-Package: com.doc.redrop
+Package: com.evaneliasyoung.redrop
 Version: 0.1.5
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.redrop_0.1.5_iphoneos-arm.deb
+Maintainer: Evan <evanyoung762@gmail.com>
+Filename: ./debs/com.evaneliasyoung.redrop_0.1.5_iphoneos-arm.deb
 Size: 806
 MD5sum: 456b1b7174049c3384d3134d38758a0d
 SHA1: 6b381017c44796a0e38e0cbb52822195649b9376
 SHA256: 26abb846704457a5d6cbdf8191ca95b9133c349b44a8be535fcd00fef1e204a4
 Section: Development
 Description: An easier way to restart dropbear
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.redrop/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.redrop/
 Name: ReDrop
 
-Package: com.doc.wemo
+Package: com.evaneliasyoung.wemo
 Version: 0.2
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
-Filename: ./debs/com.doc.wemo_0.2_iphoneos-arm.deb
+Maintainer: Evan <evanyoung762@gmail.com>
+Filename: ./debs/com.evaneliasyoung.wemo_0.2_iphoneos-arm.deb
 Size: 1524
 MD5sum: 4a35dbe20f9c7ee8d08901cffc30e877
 SHA1: 2039433cf73cbd2509aa948699fa3ba436eadf79
 SHA256: 2908db5ae2bd364ecbba31566ff58d938d6c1ef595e3369f6e00d78394b6f61a
 Section: Development
 Description: I hate the wemo app, so I made a command line tool for it.
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.wemo/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.wemo/
 Name: Wemo
 
-Package: com.doc.wurtsperre
+Package: com.evaneliasyoung.wurtsperre
 Version: 1.2.4
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.bushe.lockhtml4
-Filename: ./debs/com.doc.wurtsperre_1.2.4_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.wurtsperre_1.2.4_iphoneos-arm.deb
 Size: 155106
 MD5sum: f63ec3379218c34a96b0aa8a4817db29
 SHA1: 0ab637cb2d9e5ff99bc1a8515a24ea8e44412f1b
 SHA256: a1684e2dd91fbdf13040ea6b20b4472a6edfbffde98391cb0a35597370bfec08
 Section: Widgets
 Description: Word style clock for LockHTML
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.wurtsperre/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.wurtsperre/
 Name: Wurtsperre
 
-Package: com.doc.zeppelinguitars
+Package: com.evaneliasyoung.zeppelinguitars
 Version: 1.1.1
 Architecture: iphoneos-arm
-Maintainer: Doc <evanyoung62@icloud.com>
+Maintainer: Evan <evanyoung762@gmail.com>
 Depends: com.alexzielenski.zeppelin
-Filename: ./debs/com.doc.zeppelinguitars_1.1.1_iphoneos-arm.deb
+Filename: ./debs/com.evaneliasyoung.zeppelinguitars_1.1.1_iphoneos-arm.deb
 Size: 126620
 MD5sum: 5629980df0d009c967442667c3ebe77e
 SHA1: 973c25d9f614fd87c37206a648a67dfd0fcb6802
 SHA256: 104e95f32fd4dbf4f156c7bf635e3f2d4451bd75f4f39cd33a5c221ebf77e755
 Section: Addons (Zeppelin)
 Description: Popular guitar brands for Zeppelin
-Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.zeppelinguitars/
+Author: Evan <evanyoung762@gmail.com>
+Depiction: https://evaneliasyoung.github.io/depic/com.evaneliasyoung.zeppelinguitars/
 Name: Zeppelin - Guitar Brands
-

@@ -1,9 +1,0 @@
-Package: com.doc.wemo
-Name: Wemo
-Version: 0.2
-Architecture: iphoneos-arm
-Description: I hate the wemo app, so I made a command line tool for it.
-Author: Doc <evanyoung62@icloud.com>
-Maintainer: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.wemo/
-Section: Development

@@ -1,8 +1,8 @@
-Origin: Doc's Repo
-Label: Doc's Repo
+Origin: Evan's Repo
+Label: Evan's Repo
 Suite: stable
-Version: 2.0.1
-Codename: Doc
+Version: 3.0.0
+Codename: Evan
 Architectures: iphoneos-arm
 Components: main
 Description: Just another hobbyist
