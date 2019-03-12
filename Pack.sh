@@ -1,9 +1,9 @@
 #!/bin/bash
 
 cd `dirname $0`
-rm  Packages
+rm Packages
 
 printf "\e[1mGenerating Packages\e[0m\n"
-dpkg-scanpackages -m . /dev/null > Packages
+dpkg-scanpackages.pl -m . /dev/null > Packages
 bzip2 -fksq Packages
 gzip -fkq Packages
