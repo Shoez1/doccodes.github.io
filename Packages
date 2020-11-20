@@ -11,7 +11,7 @@ SHA256: d4b87ab1969be886c9253a5ee63cb7037a0f4ba7e347d759351a62c07da301e5
 Section: Widgets
 Description: Galaxy S8 style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.achtsperre/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.achtsperre/
 Name: Achtsperre
 
 Package: com.doc.assh
@@ -26,7 +26,7 @@ SHA256: dbe23759668df501b685ab796f70fba0bbc6bdeda8b6ca1914f9ca12739cc165
 Section: Development
 Description: An easier way to ssh into things, instead of having to retype the info this will do it for you.
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.assh/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.assh/
 Name: Assh
 
 Package: com.doc.bley
@@ -42,7 +42,7 @@ SHA256: 7f08829a2c42590d9323f171f09f92079d1c324fac960ad4f4ae94acb7be8f79
 Section: Themes
 Description: Blue-Grey theme for anemone
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.bley/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.bley/
 Name: Bley
 
 Package: com.doc.dassperre
@@ -58,7 +58,7 @@ SHA256: 55e9adf2d5502b5b05a23c69d563669c79882581e15a9aaccecf12544c1e047d
 Section: Widgets
 Description: A remake of my favorite GroovyLock theme.
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.dassperre/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.dassperre/
 Name: Daßperre
 
 Package: com.doc.farbesperre
@@ -74,7 +74,7 @@ SHA256: 826610f11f97d46d8703264ee7398453eb6080b9d4eaca2defbaa707fd4a0e06
 Section: Widgets
 Description: Color Apple Watch style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.farbesperre/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.farbesperre/
 Name: Farbesperre
 
 Package: com.doc.flachsperre
@@ -90,7 +90,7 @@ SHA256: f9fdfa2f854d773b1645acd365054e6da3ce4ad4193bd0276018760bf10a3d3b
 Section: Widgets
 Description: Flat design for LockHTML
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.flachsperre/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.flachsperre/
 Name: Flachsperre
 
 Package: com.doc.gravy
@@ -106,7 +106,7 @@ SHA256: e3c640650f4be84314226d88c1e0c4e7355ebb07d8f03bf8079d6c7a08081c01
 Section: Themes
 Description: More icons for ArkLotif's Biscuit
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.gravy/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.gravy/
 Name: Gravy
 
 Package: com.doc.ip
@@ -121,7 +121,7 @@ SHA256: e0b8d4ee26e8642dd1b95b6fd5bbe388086dafbacb6ef8a8a532223f2eeed78b
 Section: Development
 Description: Easily get your ip address.
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.ip/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.ip/
 Name: ip
 
 Package: com.doc.kreissperre
@@ -137,7 +137,7 @@ SHA256: 25cc1d9cd0f629b7db0056630b3470a8ec00f172e5b01a3a1fd707604d714fa7
 Section: Widgets
 Description: Round Apple Watch style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.kreissperre/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.kreissperre/
 Name: Kreissperre
 
 Package: com.doc.machspring
@@ -152,7 +152,7 @@ SHA256: 965355a3a6dae73d252a49825508cc817aabb2c837338224ec208b22571f5b94
 Section: Development
 Description: An alternative way to respring with mach_portal
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.machspring/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.machspring/
 Name: MachSpring
 
 Package: com.doc.machstrate
@@ -167,7 +167,7 @@ SHA256: 52bb76369c208fc97be8b3ed38aa625fb6b7e09df72d5acd4edb245fe8f73f07
 Section: Development
 Description: The correct way to enable substrate for mach_portal.
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.machstrate/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.machstrate/
 Name: MachStrate
 
 Package: com.doc.radar
@@ -183,7 +183,7 @@ SHA256: f9dcf5a8b1d4e0f6f6fcf5721ae764ce73cff415e753ed92fa7b353a99a1c08e
 Section: Development
 Description: Control your iOS device over ssh.
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.radar/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.radar/
 Name: radar
 
 Package: com.doc.redrop
@@ -198,7 +198,7 @@ SHA256: 26abb846704457a5d6cbdf8191ca95b9133c349b44a8be535fcd00fef1e204a4
 Section: Development
 Description: An easier way to restart dropbear
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.redrop/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.redrop/
 Name: ReDrop
 
 Package: com.doc.wemo
@@ -213,7 +213,7 @@ SHA256: 2908db5ae2bd364ecbba31566ff58d938d6c1ef595e3369f6e00d78394b6f61a
 Section: Development
 Description: I hate the wemo app, so I made a command line tool for it.
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.wemo/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.wemo/
 Name: Wemo
 
 Package: com.doc.wurtsperre
@@ -229,7 +229,7 @@ SHA256: a1684e2dd91fbdf13040ea6b20b4472a6edfbffde98391cb0a35597370bfec08
 Section: Widgets
 Description: Word style clock for LockHTML
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.wurtsperre/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.wurtsperre/
 Name: Wurtsperre
 
 Package: com.doc.zeppelinguitars
@@ -245,6 +245,6 @@ SHA256: 104e95f32fd4dbf4f156c7bf635e3f2d4451bd75f4f39cd33a5c221ebf77e755
 Section: Addons (Zeppelin)
 Description: Popular guitar brands for Zeppelin
 Author: Doc <evanyoung62@icloud.com>
-Depiction: https://doccodes.github.io/depic/com.doc.zeppelinguitars/
+Depiction: https://shoez1.github.io/doccodes.github.io/depic/com.doc.zeppelinguitars/
 Name: Zeppelin - Guitar Brands
 
