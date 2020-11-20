@@ -9,10 +9,10 @@ var pkgs = 16;
 function getFooter() {
   var ctt = new Date();
   var dct = new Date(ctt.getTime() + (ctt.getTimezoneOffset() * 60 * 1000) - (5 * 60 * 60 * 1000));
-  hr = dct.getHours() % 12;
+  hr = dct.getHours() % 24;
   hr == 0 ? hr = 12 : hr = hr;
   timeSt = `${hr}:${dct.getMinutes() < 10 ? '0' + dct.getMinutes() : dct.getMinutes()}:${dct.getSeconds() < 10 ? '0' + dct.getSeconds() : dct.getSeconds()} ${dct.getHours() >= 12 ? 'PM' : 'AM'}`;
-  window.footSt = `Hosting ${pkgs} Packages<br>Currently: ${timeSt}<br>Copyright Doc ${ctt.getUTCFullYear()}`;
+  window.footSt = `Hospedando ${pkgs} Packages Atualmente.<br>Atualmente: ${timeSt}<br>MTS Production Copyright ${ctt.getUTCFullYear()}. `;
 }
 getFooter();
 setInterval(getFooter, 1000);
@@ -21,11 +21,11 @@ var template = ' \
 <!DOCTYPE html> \
 <html> \
    <head> \
-      <title>Doc\'s Repo</title> \
+      <title>REPO.LHO</title> \
       <meta name="author" content="Evan &quot;Doc&quot; Young"> \
-      <meta name="description" content="Where I host my Cydia tweaks"> \
+      <meta name="description" content="Onde eu hospedo meus Tweakes do Cydia"> \
       <meta name="keywords" content="jailbreak, doc, code, cydia"> \
-      <meta name="copyright" content="&copy; 2017 Evan Young"> \
+      <meta name="copyright" content="&copy; 2020 MTS Production."> \
       <meta charset="utf-8"> \
       <meta name="viewport" content="width=device-width, initial-scale=1.0"> \
       <meta name="robots" content="index, nofollow"> \
@@ -39,7 +39,7 @@ var template = ' \
          <h1>'+title+'</h1> \
       </header> \
       <div id="content"> \
-         <h2 role="header">Description</h2> \
+         <h2 role="header">Descrição</h2> \
          <ul> \
             <li> \
                <p><strong>Compatible with iOS '+compat+'</strong></p> \
@@ -59,7 +59,7 @@ var template = ' \
                <a href="changelog.html" role="button" class="cydia_blank">Full Changelog</a> \
             </li> \
          </ul> \
-         <h2 role="header">Social Media</h2> \
+         <h2 role="header">Mídia social</h2> \
          <ul> \
                <li> \
                   <a href="https://paypal.me/DocCodes" role="button">Donate to further development</a> \
@@ -71,7 +71,7 @@ var template = ' \
                <a href="https://www.github.com/evaneliasyoung" role="button">View on GitHub</a> \
             </li> \
             <li> \
-               <a href="https://www.reddit.com/user/British-Mystery" role="button">View on Reddit</a> \
+               <a href="https://www.reddit.com/r/jailbreak/" role="button">View on Reddit</a> \
             </li> \
          </ul> \
       </div> \

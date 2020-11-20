@@ -5,10 +5,10 @@ var pkgs = 16;
 function getFooter() {
   var ctt = new Date();
   var dct = new Date(ctt.getTime() + (ctt.getTimezoneOffset() * 60 * 1000) - (5 * 60 * 60 * 1000));
-  hr = dct.getHours() % 12;
+  hr = dct.getHours() % 24;
   hr == 0 ? hr = 12 : hr = hr;
   timeSt = `${hr}:${dct.getMinutes() < 10 ? '0' + dct.getMinutes() : dct.getMinutes()}:${dct.getSeconds() < 10 ? '0' + dct.getSeconds() : dct.getSeconds()} ${dct.getHours() >= 12 ? 'PM' : 'AM'}`;
-  window.footSt = `Hosting ${pkgs} Packages<br>Currently: ${timeSt}<br>Copyright Doc ${ctt.getUTCFullYear()}`;
+  window.footSt = `Hospedando ${pkgs} Packages Atualmente.<br>Atualmente: ${timeSt}<br>MTS Production Copyright ${ctt.getUTCFullYear()}. `;
 }
 getFooter();
 setInterval(getFooter, 1000);
@@ -17,7 +17,7 @@ var template = ' \
 <!DOCTYPE html> \
 <html> \
    <head> \
-      <title>Doc\'s Repo</title> \
+      <title>REPO.LHO</title> \
       <meta name="author" content="Evan &quot;Doc&quot; Young"> \
       <meta name="description" content="Where I host my Cydia tweaks"> \
       <meta name="keywords" content="jailbreak, doc, code, cydia"> \

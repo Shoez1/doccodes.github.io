@@ -1,8 +1,8 @@
-Origin: Doc's Repo
-Label: Doc's Repo
+Origin: REPO.LHO
+Label: REPO.LHO
 Suite: stable
-Version: 2.0.1
-Codename: Doc
+Version: 2.0.0
+Codename: Shoez3
 Architectures: iphoneos-arm
 Components: main
-Description: Just another hobbyist
+Description: Apenas outro amador
